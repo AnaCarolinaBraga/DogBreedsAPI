@@ -1,0 +1,219 @@
+[
+  
+  {
+    "id": 1,
+    "raca_animal": "Akita Inu",
+    "origem": "Japao",
+    "peso": "32-59 kg",
+    "altura": "61-71 cm",
+    "expectativa_de_vida": "10-13 anos",
+    "caracteristicas": "Leal, amigo e brincalhao"
+  },
+  {
+    "id": 2,
+    "raca_animal": "Beagle",
+    "origem": "Inglaterra e Estados Unidos",
+    "peso": "9-13,5 kg",
+    "altura": "33-38 cm",
+    "expectativa_de_vida": "10-15 anos",
+    "caracteristicas": "Alegre, companheiro e aventureiro"
+  },
+  {
+    "id": 3,
+    "raca_animal": "Spitz Japones",
+    "origem": "Japao",
+    "peso": "10 kg",
+    "altura": "25-38 cm",
+    "expectativa_de_vida": "10-16 anos",
+    "caracteristicas": "Leal, companheiro e curioso"
+  },
+  {
+    "id": 4,
+    "raca_animal": "Yorkshire Terrier",
+    "origem": "Inglaterra",
+    "peso": "2-3 kg",
+    "altura": "18-20 cm",
+    "expectativa_de_vida": "12-15 anos",
+    "caracteristicas": "Destemido, carinhoso e cheio de energia"
+  },
+  {
+    "id": 5,
+    "raca_animal": "Samoieda",
+    "origem": "Russia",
+    "peso": "16-30 kg",
+    "altura": "48-58 cm",
+    "expectativa_de_vida": "12-14 anos",
+    "caracteristicas": "Independente, leal e orgulhoso"
+  },
+  {
+    "id": 6,
+    "raca_animal": "Maltes",
+    "origem": "Regiao central do mediterraneo",
+    "peso": "3-3,5 kg",
+    "altura": "20-25 cm",
+    "expectativa_de_vida": "12-15 anos",
+    "caracteristicas": "Gentil, brincalhao e afetuoso"
+  },
+  {
+    "id": 7,
+    "raca_animal": "Pastor Belga",
+    "origem": "Belgica",
+    "peso": "18-34 kg",
+    "altura": "56-66 cm",
+    "expectativa_de_vida": "12-14 anos",
+    "caracteristicas": "Esperto, trabalhador e brincalhao"
+  },
+  {
+    "id": 8,
+    "raca_animal": "Poodle",
+    "origem": "Franca",
+    "peso": "2-3 kg (toy), 4-7 kg (miniatura) e 27-32 kg (standard ou gigante)",
+    "altura": "at\uFFFD 25 cm (toy), 25-38 cm (miniatura) e mais de 38 cm (standard ou gigante)",
+    "expectativa_de_vida": "10-18 anos",
+    "caracteristicas": "Orgulhoso, ativo e inteligente"
+  },
+  {
+    "id": 9,
+    "raca_animal": "Fila brasileiro",
+    "origem": "Brasil",
+    "peso": "70 kg",
+    "altura": "75 cm",
+    "expectativa_de_vida": "8-12 anos",
+    "caracteristicas": "Companheiro, corajoso e amoroso"
+  },
+  {
+    "id": 10,
+    "raca_animal": "Golden retriever",
+    "origem": "Escocia",
+    "peso": "25-34 kg",
+    "altura": "56-60 cm",
+    "expectativa_de_vida": "10-12 anos",
+    "caracteristicas": "Inteligente, brincalhao e leal"
+  },
+  {
+    "id": 11,
+    "raca_animal": "Dalmata",
+    "origem": "Inglaterra",
+    "peso": "9-13 kg",
+    "altura": "30-35 cm",
+    "expectativa_de_vida": "12-14 anos",
+    "caracteristicas": "Atletico, protetor e amavel"
+  },
+  {
+    "id": 12,
+    "raca_animal": "Cocker spaniel ingles",
+    "origem": "Inglaterra",
+    "peso": "11-15 kg",
+    "altura": "38-43 cm",
+    "expectativa_de_vida": "12-14 anos",
+    "caracteristicas": "Companheiro, alegre e afetuoso"
+  },
+  {
+    "id": 13,
+    "raca_animal": "Chihuahua",
+    "origem": "Mexico",
+    "peso": "1-3 kg",
+    "altura": "15-23 cm",
+    "expectativa_de_vida": "12-20 anos",
+    "caracteristicas": "Charmoso, animado e atrevido"
+  },
+  {
+    "id": 14,
+    "raca_animal": "Chow chow",
+    "origem": "China",
+    "peso": "20-32 kg",
+    "altura": "43-50 cm",
+    "expectativa_de_vida": "8-12 anos",
+    "caracteristicas": "Calmo, leal e orgulhoso"
+  },
+  {
+    "id": 15,
+    "raca_animal": "Weimaraner",
+    "origem": "Alemanha",
+    "peso": "25-41 kg",
+    "altura": "58-68 cm",
+    "expectativa_de_vida": "10-13 anos",
+    "caracteristicas": "Amigavel, corajoso e independente"
+  },
+  {
+    "id": 16,
+    "raca_animal": "Shiba",
+    "origem": "Japao",
+    "peso": "7-11 kg",
+    "altura": "33-43 cm",
+    "expectativa_de_vida": "12-15 anos",
+    "caracteristicas": "Independente, leal e alerta"
+  },
+  {
+    "id": 17,
+    "raca_animal": "Shih tzu",
+    "origem": "China",
+    "peso": "4-7 kg",
+    "altura": "20-28 cm",
+    "expectativa_de_vida": "10-16 anos",
+    "caracteristicas": "Carinhoso, brincalhao e encantador"
+  },
+  {
+    "id": 18,
+    "raca_animal": "Dogo argentino",
+    "origem": "Argentina",
+    "peso": "36-45 kg",
+    "altura": "58-68 cm",
+    "expectativa_de_vida": "9-15 anos",
+    "caracteristicas": "Leal, confiavel e corajoso"
+  },
+  {
+    "id": 19,
+    "raca_animal": "Dogue alemao",
+    "origem": "Alemanha",
+    "peso": "44-90 kg",
+    "altura": "71-86 cm",
+    "expectativa_de_vida": "6-8 anos",
+    "caracteristicas": "Amig\uFFFDvel, paciente e d\uFFFDcil"
+  },
+  {
+    "id": 20,
+    "raca_animal": "Border collie",
+    "origem": "Gra-Bretanha",
+    "peso": "12-20 kg",
+    "altura": "46-56 cm",
+    "expectativa_de_vida": "10-17 anos",
+    "caracteristicas": "Inteligente, leal e cheio de energia"
+  },
+  {
+    "id": 21,
+    "raca_animal": "Boiadeiro australiano",
+    "origem": "Inglaterra",
+    "peso": "9-13 kg",
+    "altura": "30-35 cm",
+    "expectativa_de_vida": "12-14 anos",
+    "caracteristicas": "Alerta, curioso e leal"
+  },
+  {
+    "id": 22,
+    "raca_animal": "Pug",
+    "origem": "China",
+    "peso": "6-8 kg",
+    "altura": "25-30 cm",
+    "expectativa_de_vida": "13-15 anos",
+    "caracteristicas": "Amoroso, temperamental e companheiro"
+  },
+  {
+    "id": 23,
+    "raca_animal": "Labrador retriever",
+    "origem": "Reino Unido e Canada",
+    "peso": "25\uFFFD36 kg",
+    "altura": "54,5\uFFFD62 cm",
+    "expectativa_de_vida": "10-12 anos",
+    "caracteristicas": "Inteligente, carinhoso e brincalhao"
+  },
+  {
+    "id": 24,
+    "raca_animal": "Boxer",
+    "origem": "Alemanha",
+    "peso": "22-36 kg",
+    "altura": "53-63 cm",
+    "expectativa_de_vida": "10-12 anos",
+    "caracteristicas": "Leal, afetuoso e brincalhao"
+  }
+]

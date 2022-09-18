@@ -7,6 +7,7 @@ using DogBreedsAPI.FIlters;
 using DogBreedsAPI.Interfaces;
 using DogBreedsAPI.Repositories;
 using System.Text;
+using DogBreedsAPI.Utils;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,6 +50,7 @@ builder.Services.AddSwaggerGen(option =>
                     }
 
                 });
+    option.DocumentFilter<SwaggerTitleConfig>();
 });
 
 builder.Services.AddScoped(typeof(IDogBreedsRepository), typeof(DogBreedsRepository));
